@@ -4,7 +4,7 @@ A new Flutter project.
 
 # Screenshot
 
-<img src="https://telegra.ph/file/0926a9ef0cc72dc4e4831.png" width="200">
+<img src="https://telegra.ph/file/0926a9ef0cc72dc4e4831.png" width="600">
 
 ## Getting Started
 
