@@ -130,7 +130,9 @@ class _login_screenState extends State<login_screen> {
                           });
                         },
                         icon: Icon(
-                            hidePass ? Icons.visibility_off : Icons.visibility),
+                          hidePass ? Icons.visibility_off : Icons.visibility,
+                          color: Colors.grey[350],
+                        ),
                       ),
                     ),
                   ),
